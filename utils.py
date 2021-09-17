@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import nltk
+nltk.download('wordnet')
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
