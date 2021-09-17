@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 
