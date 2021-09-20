@@ -23,3 +23,6 @@ The dataset used for the training of the model has 20000+ reviews. The train acc
 * Deployment: Using features provided by flask I have integrated the template of an html page and a python file which predicts the result of the given review to be `Cyber-Troll` or `Non Cyber-Troll`. Further for deployment of the project online, the platform of heroku is used and all the requirements are fulfilled for successful deployment of the web app. Hence, now using the link https://cybertroll-dipti-101803601.herokuapp.com/ , the final product can be used from the web.
 
 ## Novelty
+- Performed *Hyperparameter Tuning* on the trained model
+SVM(Support Vector Machine) parameter: 'C' used for error control
+- Used *BeautifulSoup* for data preprocessing
