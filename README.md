@@ -13,4 +13,4 @@ The dataset used for the training of the model has 20000+ reviews. The train acc
 
 ## Methodology
 
-![](Methodology.png)
+![](Methodology.jpg)
