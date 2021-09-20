@@ -11,7 +11,7 @@ I have applied a supervised learning model to perform binary classification on t
 
 The dataset used for the training of the model has 20000+ reviews. The train accuracy is observed to be 0.97 and test accuracy is 0.85.
 
-![](IO_Screenshots/Capture.jpg)
+![](IO_Screenshots/Capture1.jpg)
 
 ## Methodology
 
