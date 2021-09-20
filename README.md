@@ -10,7 +10,8 @@ In order to detect whether or not an online comment is from a cyber troll, you c
 I have applied a supervised learning model to perform binary classification on the given set of reviews. Accuracy is used to measure the performance of the trained model.
 
 The dataset used for the training of the model has 20000+ reviews. The train accuracy is observed to be 0.97 and test accuracy is 0.85.
-![](IO Screenshots/Capture.jpg)
+
+![](IO_Screenshots/Capture.jpg)
 
 ## Methodology
 
